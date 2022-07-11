@@ -1,0 +1,10 @@
+学号		姓名	专业	班级		语文	数学	英语	密码
+118000001	jake	major1	classes11		82	81	63	123
+118000002	Bill	major1	classes11		71	92	75	123
+118000003	jack	major2	classes21		63	22	55	123
+118000004	mark	major2	classes22		56	73	66	123
+118000005	Jame	major1	classes12		85	81	84	123
+118000006	jake	major1	classes11		82	87	92	123
+118000007	Jsep	major1	classes11		90	65	73	123
+118000008	Gary	major1	classes11		87	90	67	123
+118000009	Lili	major1	classes11		85	74	78	123
